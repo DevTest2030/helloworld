@@ -6,6 +6,6 @@
 <body>
 <h1>Hello World</h1>
 <p>Welcome to your git trial</p>
-<p>Checking errorss</p>
+<p>Checking errors</p>
 </body>
 </html>
