@@ -6,5 +6,6 @@
 <body>
 <h1>Hello World</h1>
 <p>Welcome to git setup for developers</p>
+<p>Checking errors</p>
 </body>
 </html>
